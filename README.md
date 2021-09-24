@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xuan Fang.
+- 👋 Hi, I’m Xuan.
 - 👀 I’m interested in food, fashion, moive, and traveling! 
 - 🌱 I’m currently graduated from UoA with a pgd in Statistics and looking for a data analyst role. 
 - 💞️ I’m looking to collaborate on any data science related projects.
