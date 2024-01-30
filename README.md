@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xuan.
 - 👀 I’m interested in food, fashion, moive, and traveling! 
-- 🌱 I’m currently working as a data analyst. 
+- 🌱 I’m currently working as a data engineer. 
 - 💞️ I’m looking to collaborate on any data science related projects.
 - 📫 You can reach me at xuan.fang0323@hotmail.com
 
